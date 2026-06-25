@@ -1,1 +1,1 @@
-# odin-landing-page
+The purpose of this project is to practice creating a landing page with html and css
